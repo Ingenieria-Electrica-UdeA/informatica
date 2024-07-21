@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/229a58f3-244d-4920-8410-92d0f683eeb3)<h1>Clase 01. Introducción a Python</h1>
+<h1>Clase 01. Introducción a Python</h1>
 <h2>Contenido</h2>
 <ul>
     <li>¿Qué es Python?</li>
