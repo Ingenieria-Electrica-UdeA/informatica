@@ -1,9 +1,9 @@
 # Diagramas de flujo y pseudocódigo
 
 ## Temas
-- Diagramas de flujo
-- Pseudocódigo
-- Ejercicios prácticos
+- [Diagramas de Flujo](#diagramas-de-flujo)
+- [Pseudocódigo](#pseudocodigo)
+- [Ejercicios Prácticos](#ejercicios-prácticos)
 
 ## Pseudocódigo
 El pseudocódigo es una forma de describir algoritmos utilizando un lenguaje de programación simplificado, que se asemeja al lenguaje natural y que está diseñado para ser entendido tanto por humanos como por computadoras.
