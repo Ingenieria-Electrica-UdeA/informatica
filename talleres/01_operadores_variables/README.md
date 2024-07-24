@@ -1,11 +1,11 @@
 # Operadores y variables
 
 ## Temas
-- Variables
-- Datos
-- Operadores
-- Funciones predeterminadas
-- Ejercicios prácticos
+- [Variables](#variables)
+- [Datos](#datos)
+- [Operadores](#operadores)
+- [Funciones Predeterminadas](#funciones-predeterminadas)
+- [Ejercicios Prácticos](#ejercicios-prácticos)
 
 ## Variables
 Una variable es un contenedor de datos, en términos de computación es un espacio reservado en la memoria del computador para almacenar un dato que puede ser usado o modificado tantas veces como se desee.
