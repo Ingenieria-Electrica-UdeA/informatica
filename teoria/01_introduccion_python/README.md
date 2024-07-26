@@ -50,15 +50,15 @@
     <li>OOP → Seguridad y economía de código.</li>
 </ul>
 <h2>¿Quiénes lo usan?</h2>
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/empresas-que-usan-python.png" alt="Empresas que usan Python" style="width: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/empresas-que-usan-python.png" alt="Empresas que usan Python" style="width: 100%;">
 <h2>Librerías más comunes</h2>
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/librerias-comunes-python.png" alt="Librerías más comunes de Python" style="width: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/librerias-comunes-python.png" alt="Librerías más comunes de Python" style="width: 100%;">
 <h2>Entornos de desarrollo</h2>
 <p>Instalación local</p>
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-1.png" alt="Entornos de Desarrollo Python" style="width: auto;">
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-2.png" alt="Entornos de Desarrollo Python" style="width: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-1.png" alt="Entornos de Desarrollo Python" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-2.png" alt="Entornos de Desarrollo Python" style="width: 100%; height: auto;">
 <p><strong>En la nube: </strong>Google Colab (colaboratory) → <a href="https://colab.research.google.com/" target="_blank">https://colab.research.google.com/</a> Creación y ejecución de programas de Python en un navegador de internet.</p>
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-3.png" alt="Entornos de Desarrollo Python" style="width: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/entornos-desarrollo-python-3.png" alt="Entornos de Desarrollo Python" style="width: 100%; height: auto;">
 <ul>
     <li><strong>Sin necesidad de instalación ni configuración</strong></li>
     <li><strong>Acceso gratuito a GPUs</strong></li>
@@ -69,7 +69,7 @@
     <li>Colab notebook → Similar a <strong>Jupyter Notebook</strong></li>
 </ul>
 <h2>Cuadernos de Jupyter</h2>
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/cuadernos-jupyter.png" alt="Cuadernos de Jupyter" style="width:auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/cuadernos-jupyter.png" alt="Cuadernos de Jupyter" style="width: zzzauto;">
 <ul>
     <li>Ejecución en un navegador de internet (instalación local o en la nube)</li>
     <li>Pestaña navegador de archivos</li>
