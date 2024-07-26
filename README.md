@@ -22,5 +22,7 @@
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/laboratorios/5_2_Plotly.ipynb">5_2_Plotly</a>
 
 ### Talleres
+- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_variables_operadores">Variables y operadores</a>
+-  <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_diagramas_pseudocodigo">Diagramas de flujo y pseudocódigo</a>
 ### Teoría
 ### Tutoriales

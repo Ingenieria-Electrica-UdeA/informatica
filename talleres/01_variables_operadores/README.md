@@ -1,4 +1,4 @@
-# Operadores y variables
+# Variables y operadores
 
 ## Temas
 - [Variables](#variables)
