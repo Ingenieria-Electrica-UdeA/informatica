@@ -67,15 +67,15 @@ Fin Mientras
 Se ejecuta un número específico de veces
 
 ``` pseint 
-Procedimiento nombreProcedimiento(parámetros)
-    // Bloque de código
-Fin Procedimiento
+Para variable ← valor_inicial Hasta valor_final Hacer
+    // Instrucciones a ejecutar
+FinPara
 ```
 
 ``` pseint 
-Función nombreFunción(parámetros) Retornar tipo
-    // Bloque de código
-Fin Función
+Para i ← 1 Hasta 5 Hacer
+    Imprimir i
+FinPara
 ```
 ### Ejemplo
 Implemente un algoritmo que convierta un valor de pesos a dólares. Para ello:

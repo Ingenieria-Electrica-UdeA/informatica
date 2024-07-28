@@ -23,7 +23,7 @@
 
 ### Talleres
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_variables_operadores">01. Variables y operadores</a>
-- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_diagramas_pseudocodigo">02. Diagramas de flujo y pseudocódigo</a>
+- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo">02. Pseudocódigo y diagramas de flujo</a>
 
 ### Teoría
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/teoria/00_introduccion_curso">00. Introducción al curso</a>
