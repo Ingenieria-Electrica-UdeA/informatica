@@ -129,6 +129,8 @@ Implemente un algoritmo que convierta un valor de pesos a dólares. Para ello:
 
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-1.png" alt="Diagrama de flujo ejemplo 2">
 
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejemplo.psc">Ver código de PSeInt</a>
+
 ## Ejercicios prácticos
 Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 43-44 y 88. 
 
@@ -144,6 +146,7 @@ Fin
 ```
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-2.png" alt="Diagrama de flujo Ejercicio 2.1">
 
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_2_1.psc">Ver código de PSeInt</a>
 
 ### Ejercicio 2.3
 Una empresa que contrata personal requiere determinar la edad de las personas que solicitan trabajo, pero cuando se les realiza la entrevista sólo se les pregunta el año en que nacieron. Realice el diagrama de flujo y pseudocódigo que representen el algoritmo para solucionar este problema. 
@@ -156,6 +159,8 @@ Escribir edad
 Fin
 ```
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-3.png" alt="Cuadernos de Jupyter">
+
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_2_3.psc">Ver código de PSeInt</a>
 
 ### Ejercicio 2.12
 Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para determinar cuánto pagará finalmente una persona por un artículo equis, considerando que tiene un descuento de 20%, y debe pagar 15% de IVA (debe mostrar el precio con descuento y el precio final). 
@@ -170,6 +175,8 @@ Escribir precio_descuento, precio_iva
 Fin
 ```
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-4.png" alt="Cuadernos de Jupyter">
+
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_2_12.psc">Ver código de PSeInt</a>
 
 ### Ejercicio 3.2
 Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera como excedente y se paga el doble. Construya el diagrama de flujo y el pseudocódigo.
@@ -187,3 +194,5 @@ Escribir sueldo
 Fin
 ```
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter">
+
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_3_2.psc">Ver código de PSeInt</a>
