@@ -1,6 +1,6 @@
 # Variables y operadores
 
-## Temas
+## Contenido
 - [Variables](#variables)
 - [Datos](#datos)
 - [Operadores](#operadores)
@@ -103,10 +103,10 @@ Si una instrucción contiene paréntesis, se realizan en primer lugar las operac
 | max()    | Retorna el máximo de una colección de datos | `max(lista) = 1000`    |
 | min()    | Retorna el mínimo de una colección de datos | `min(lista) = -1000`   |
 | pow()    | Eleva un número a una potencia dada        | `pow(2, 5) = 32`       |
-| round()  | Redondea un número a su entero más cercano | `round(28.5587, 3) = 28.559` |
+| round()  | Redondea un número con cierta cantidad de decimales | `round(28.5587, 3) = 28.559` |
 
 ## Ejercicios prácticos
 
-<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_operadores_variables/01_operadores_variables.ipynb" target="_blank">Ver código en GitHub</a>
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_variables_operadores/01_variables_operadores.ipynb" target="_blank">Ver código en GitHub</a>
 
-<a href="https://colab.research.google.com/github/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_operadores_variables/01_operadores_variables.ipynb" target="_blank">Abre el cuaderno directamente en Google Colab</a>
+<a href="https://colab.research.google.com/github/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_variables_operadores/01_variables_operadores.ipynb" target="_blank">Abre el cuaderno directamente en Google Colab</a>
