@@ -1,12 +1,15 @@
 # Diagramas de flujo y pseudocódigo
 
-## Temas
+## Contenido
 - [Diagramas de Flujo](#diagramas-de-flujo)
 - [Pseudocódigo](#pseudocodigo)
 - [Ejercicios Prácticos](#ejercicios-prácticos)
 
 ## Pseudocódigo
 El pseudocódigo es una forma de describir algoritmos utilizando un lenguaje de programación simplificado, que se asemeja al lenguaje natural y que está diseñado para ser entendido tanto por humanos como por computadoras.
+
+Debe empezar con **Inicio** y terminar con **Fin** para proporcionar una estructura clara y bien definida del bloque de código. Esto ayuda a delimitar el inicio y el final del algoritmo, haciendo que sea más fácil de leer, entender y seguir.
+
 
 ### Variables y asignaciones
 Se usan para almacenar valores.
@@ -124,7 +127,7 @@ Implemente un algoritmo que convierta un valor de pesos a dólares. Para ello:
 - Calcule el valor en dólares.
 - Imprima un mensaje con el cálculo de la conversión.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-1.png" alt="Cuadernos de Jupyter" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-1.png" alt="Diagrama de flujo ejemplo 2">
 
 ## Ejercicios prácticos
 Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 43-44 y 88. 
@@ -139,7 +142,7 @@ Hacer area= 0,5*base*altura
 Escribir area
 Fin
 ```
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-2.png" alt="Cuadernos de Jupyter" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-2.png" alt="Diagrama de flujo Ejercicio 2.1">
 
 
 ### Ejercicio 2.3
@@ -152,7 +155,7 @@ Hacer edad= 2024-anio
 Escribir edad
 Fin
 ```
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-3.png" alt="Cuadernos de Jupyter" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-3.png" alt="Cuadernos de Jupyter">
 
 ### Ejercicio 2.12
 Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para determinar cuánto pagará finalmente una persona por un artículo equis, considerando que tiene un descuento de 20%, y debe pagar 15% de IVA (debe mostrar el precio con descuento y el precio final). 
@@ -166,7 +169,7 @@ Hacer precio_iva= precio_descuento*(1+0,15)
 Escribir precio_descuento, precio_iva
 Fin
 ```
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-4.png" alt="Cuadernos de Jupyter" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-4.png" alt="Cuadernos de Jupyter">
 
 ### Ejercicio 3.2
 Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera como excedente y se paga el doble. Construya el diagrama de flujo y el pseudocódigo.
@@ -178,9 +181,9 @@ Si horas_trabajadas<=40
     Entonces
         Hacer sueldo= horas_trabajadas*pago_hora
     Si no
-        Hacer sueldo=(40*pago_hora)+((horas_trabajadas-40)*2*pago_hora)
+        Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
     Fin de comparación
 Escribir sueldo
 Fin
 ```
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter">
