@@ -129,7 +129,7 @@ Implemente un algoritmo que convierta un valor de pesos a dólares. Para ello:
 
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-1.png" alt="Diagrama de flujo ejemplo 2">
 
-<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejemplo.psc">Ver código de PSeInt</a>
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejemplo_2.psc">Ver código de PSeInt</a>
 
 ## Ejercicios prácticos
 Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 43-44 y 88. 
