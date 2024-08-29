@@ -92,8 +92,8 @@ Si una instrucción contiene paréntesis, se realizan en primer lugar las operac
 | %=       | `x %= 3` | `x = x % 3`  |
 | //=      | `x //= 3` | `x = x // 3` |
 | **=      | `x **= 3` | `x = x ** 3` |
-| &=       | `x &= 3` | `x = x & 3`  |
-| \|=      | `x \|= 3` | `x = x \| 3` |
+| &=       | `x &= False` | `x = x & False`  |
+| \|=      | `x \|= True` | `x = x \| True` |
 
 ## Funciones predeterminadas
 | Función  | Descripción                                | Ejemplo                |
