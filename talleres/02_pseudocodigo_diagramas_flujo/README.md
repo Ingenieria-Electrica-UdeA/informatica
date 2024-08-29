@@ -120,7 +120,7 @@ Un diagrama de flujo en programación es una representación gráfica de un algo
 | =       | Igual que             |
 
 ### Ejemplo
-Implemente un algoritmo que convierta un valor de pesos a dólares. Para ello:
+Realice un diagrama de flujo para un algoritmo que convierta un valor de pesos colombianos a dólares, para ello:
 
 - Solicite al usuario la cantidad en pesos.
 - Solicite al usuario el valor del dólar en pesos.
@@ -184,12 +184,11 @@ Realice un algoritmo para determinar el sueldo semanal de un trabajador con base
 ``` pseint 
 Inicio
 Leer horas_trabajadas, pago_hora
-Si horas_trabajadas<=40
-    Entonces
-        Hacer sueldo= horas_trabajadas*pago_hora
-    Si no
-        Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
-    Fin de comparación
+Si horas_trabajadas<=40 Entonces
+    Hacer sueldo= horas_trabajadas*pago_hora
+Si no
+    Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
+Fin de comparación
 Escribir sueldo
 Fin
 ```
