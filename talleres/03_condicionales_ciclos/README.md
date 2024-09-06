@@ -51,4 +51,4 @@ Esta estructura ejecuta las acciones del cuerpo del bucle un número especificad
 ### Ciclos anidados
 De igual forma que se pueden anidar estructuras de selección, es posible insertar un bucle dentro de otro. Las reglas para construir estructuras repetitivas anidadas son iguales en ambos casos: la estructura interna debe estar incluida totalmente dentro de la externa y no puede existir solapamiento.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclos-anidados.png" alt="Ciclos anidados" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclos-anidados.png" alt="Ciclos anidados">
