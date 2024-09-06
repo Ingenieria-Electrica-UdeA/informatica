@@ -25,7 +25,7 @@ La estructura condicional doble permite elegir entre dos opciones o alternativas
 ### Estructura condicional anidada
 Las estructuras de selección no necesariamente implican la selección de una de dos alternativas, es posible también utilizarlas para diseñar estructuras de selección que contengan más alternativas. Por ejemplo, una estructura condicional puede contener otra estructura condicional, y esta estructura puede contener otra, y así sucesivamente cualquier número de veces.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-anidada.png" alt="Estructura condicional anidada" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-anidada.png" alt="Estructura condicional anidada">
 
 
 ## Ciclos
