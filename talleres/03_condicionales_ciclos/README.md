@@ -15,12 +15,12 @@ En esta estructura se ejecuta una determinada instrucción cuando se cumple una 
 
 - Si la condición es falsa, no ejecuta la instrucción o conjunto de instrucciones.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-simple.png" alt="Estructura condicional simple" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-simple.png" alt="Estructura condicional simple">
 
 ### Estructura condicional doble
 La estructura condicional doble permite elegir entre dos opciones o alternativas posibles, en función del cumplimiento o no de una determinada condición. Si la condición es verdadera, se ejecuta una acción y, si es falsa, se ejecuta otra acción diferente.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-doble.png" alt="Estructura condicional doble" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/estructura-condicional-doble.png" alt="Estructura condicional doble">
 
 ### Estructura condicional anidada
 Las estructuras de selección no necesariamente implican la selección de una de dos alternativas, es posible también utilizarlas para diseñar estructuras de selección que contengan más alternativas. Por ejemplo, una estructura condicional puede contener otra estructura condicional, y esta estructura puede contener otra, y así sucesivamente cualquier número de veces.
@@ -41,12 +41,12 @@ Al ejecutar la estructura, primero se evalúa la condición (una expresión bool
 
 - Este proceso se repite una y otra vez mientras la expresión booleana (condición) sea verdadera.
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclo-while.png" alt="Ciclo while" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclo-while.png" alt="Ciclo while">
 
 ### Ciclo para (for)
 Esta estructura ejecuta las acciones del cuerpo del bucle un número especificado de veces y de modo automático
 
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclo-for.png" alt="Ciclo for" style="width: 100%; height: auto;">
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclo-for.png" alt="Ciclo for">
 
 ### Ciclos anidados
 De igual forma que se pueden anidar estructuras de selección, es posible insertar un bucle dentro de otro. Las reglas para construir estructuras repetitivas anidadas son iguales en ambos casos: la estructura interna debe estar incluida totalmente dentro de la externa y no puede existir solapamiento.
