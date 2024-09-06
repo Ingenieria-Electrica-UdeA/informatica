@@ -132,7 +132,7 @@ Realice un diagrama de flujo para un algoritmo que convierta un valor de pesos c
 <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejemplo_2.psc">Ver código de PSeInt</a>
 
 ## Ejercicios prácticos
-Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 43-44 y 88. 
+Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 43, 44 y 88. 
 
 ### Ejercicio 2.1
 Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para obtener el área de un triángulo. 

@@ -52,3 +52,37 @@ Esta estructura ejecuta las acciones del cuerpo del bucle un número especificad
 De igual forma que se pueden anidar estructuras de selección, es posible insertar un bucle dentro de otro. Las reglas para construir estructuras repetitivas anidadas son iguales en ambos casos: la estructura interna debe estar incluida totalmente dentro de la externa y no puede existir solapamiento.
 
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/ciclos-anidados.png" alt="Ciclos anidados">
+
+
+## Ejercicios prácticos
+Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RESUELTOS CON DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO, páginas 88, 89 y 138.
+
+### Ejercicio 3.2
+Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera como excedente y se paga el doble. Construya el diagrama de flujo y el pseudocódigo.
+
+``` pseint 
+Inicio
+Leer horas_trabajadas, pago_hora
+Si horas_trabajadas<=40 Entonces
+    Hacer sueldo= horas_trabajadas*pago_hora
+Si no
+    Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
+Fin de comparación
+Escribir sueldo
+Fin
+```
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter">
+
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_3_2.psc">Ver código de PSeInt</a>
+
+### Ejercicio 3.4
+
+El dueño de un estacionamiento requiere un diagrama de flujo con el algoritmo que le permita determinar cuánto debe cobrar por el uso del estacionamiento a sus clientes. Las tarifas que se tienen son las siguientes: 
+
+- Las dos primeras horas a $5.00 c/u. 
+- Las siguientes tres a $4.00 c/u. 
+- Las cinco siguientes a $3.00 c/u. 
+- Después de diez horas el costo por cada una es de dos pesos.
+
+## Ejercicio 4.1
+Un profesor tiene un salario inicial de $1500, y recibe un incremento de 10 % anual durante 6 años. ¿Cuál es su salario al cabo de 6 años? ¿Qué salario ha recibido en cada uno de los 6 años? Realice el algoritmo y represente la solución mediante el diagrama de flujo utilizando el ciclo apropiado.
