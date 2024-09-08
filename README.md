@@ -24,9 +24,12 @@
 ### Talleres
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/01_variables_operadores">01. Variables y operadores</a>
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo">02. Pseudocódigo y diagramas de flujo</a>
+- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/talleres/03_condicionales_ciclos_i">03. Condicionales y ciclos I</a>
+- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/talleres/04_condicionales_ciclos_ii">04. Condicionales y ciclos II</a>
+
 
 ### Teoría
 - <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/teoria/00_introduccion_curso">00. Introducción al curso</a>
-- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/teoria/01_introduccion_python">00. Introducción a Python</a>
+- <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/tree/main/teoria/01_introduccion_python">01. Introducción a Python</a>
 
 ### Tutoriales
