@@ -64,6 +64,21 @@ Los problemas propuestos se encuentran en el libro PROBLEMARIO DE ALGORITMOS RES
 ### Ejercicio 3.2
 Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera como excedente y se paga el doble. Construya el diagrama de flujo y el pseudocódigo.
 
+``` pseint 
+Inicio
+Leer horas_trabajadas, pago_hora
+Si horas_trabajadas<=40 Entonces
+    Hacer sueldo= horas_trabajadas*pago_hora
+Si no
+    Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
+Fin de comparación
+Escribir sueldo
+Fin
+```
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter">
+
+<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_3_2.psc">Ver código de PSeInt</a>
+
 ### Ejercicio 3.4
 El dueño de un estacionamiento requiere un diagrama de flujo con el algoritmo que le permita determinar cuánto debe cobrar por el uso del estacionamiento a sus clientes. Las tarifas que se tienen son las siguientes: 
 
@@ -72,11 +87,27 @@ El dueño de un estacionamiento requiere un diagrama de flujo con el algoritmo q
 - Las cinco siguientes a $3.00 c/u. 
 - Después de diez horas el costo por cada una es de dos pesos.
 
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-6.png" alt="Cuadernos de Jupyter">
+
+<a href="">Ver código de PSeInt</a>
+
 ### Ejercicio 3.5
 Se tiene el nombre y la edad de tres personas. Se desea saber el nombre y la edad de la persona de menor edad. Realice el algoritmo correspondiente y represéntelo con un diagrama de flujo.
+
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-7.png" alt="Cuadernos de Jupyter">
+
+<a href="">Ver código de PSeInt</a>
 
 ### Ejercicio 3.6
 Realice el diagrama de flujo y el algoritmo para determinar el costo y el descuento que tendrá un artículo. Considere que si su precio es mayor o igual a $200 se le aplica un descuento de 15%, y si su precio es mayor a $100 pero menor a $200, el descuento es de 12%, y si es menor a $100, sólo 10%. 
 
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-8.png" alt="Cuadernos de Jupyter">
+
+<a href="">Ver código de PSeInt</a>
+
 ### Ejercicio 4.1
 Un profesor tiene un salario inicial de $1500, y recibe un incremento de 10 % anual durante 6 años. ¿Cuál es su salario al cabo de 6 años? ¿Qué salario ha recibido en cada uno de los 6 años? Realice el algoritmo y represente la solución mediante el diagrama de flujo utilizando el ciclo apropiado.
+
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-9.png" alt="Cuadernos de Jupyter">
+
+<a href="">Ver código de PSeInt</a>

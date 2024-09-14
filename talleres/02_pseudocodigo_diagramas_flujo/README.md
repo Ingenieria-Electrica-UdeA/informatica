@@ -177,21 +177,3 @@ Fin
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-4.png" alt="Cuadernos de Jupyter">
 
 <a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_2_12.psc">Ver código de PSeInt</a>
-
-### Ejercicio 3.2
-Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera como excedente y se paga el doble. Construya el diagrama de flujo y el pseudocódigo.
-
-``` pseint 
-Inicio
-Leer horas_trabajadas, pago_hora
-Si horas_trabajadas<=40 Entonces
-    Hacer sueldo= horas_trabajadas*pago_hora
-Si no
-    Hacer sueldo=pago_h*((40)+((h_trabajo-40)*2))
-Fin de comparación
-Escribir sueldo
-Fin
-```
-<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/diagrama-flujo-5.png" alt="Cuadernos de Jupyter">
-
-<a href="https://github.com/Ingenieria-Electrica-UdeA/informatica/blob/main/talleres/02_pseudocodigo_diagramas_flujo/Ejercicio_3_2.psc">Ver código de PSeInt</a>
